@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a fully functioning Google Books API search engine which is based on GraphQL API built with an Apollo Server. The user is able to search for books, login and seave searches, and return to searches after logging out. They can also remove books from former saved searches. 
+This is a fully functioning Google Books API search engine which is based on GraphQL API built with an Apollo Server. The user is able to search for books, login and save searches, and return to searches after logging out. They can also remove books from former saved searches. 
 
 Modern websites are driven, obviously, by user demands and data structures. The capacity to personalize user data is essential to modern web development. A good resource on why this is important can be found [here -- GraphQL FAQ](https://www.apollographql.com/docs/resources/faq/). 
 
